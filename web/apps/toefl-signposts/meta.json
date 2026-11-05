@@ -1,0 +1,11 @@
+{
+ "name": "toefl-signposts",
+ "title": "Signpost Language Trainer",
+ "exam": "TOEFL",
+ "area": "TOEFL Reading and Listening",
+ "desc": "Learn the phrases speakers use to show structure, such as 'another factor' and 'that brings us to'.",
+ "content": [
+  "signposts.json"
+ ],
+ "n": 67
+}
